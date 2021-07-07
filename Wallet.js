@@ -3,7 +3,7 @@ class Wallet {
         let _money= money;
 
         //pobieranie aktualnej zawartości portfela
-        this. getWalletValue = () => _money;
+        this.getWalletValue = () => _money;
 
         //Sprawdzanie czy użytkownik ma odpowiednią ilość środków
         this.checkCanPlay = value => {

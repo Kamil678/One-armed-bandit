@@ -10,4 +10,4 @@ class Result {
     }
 }
 
-Result.moneyWinInGame(true, 10);
+//Result.moneyWinInGame(true, 10);
